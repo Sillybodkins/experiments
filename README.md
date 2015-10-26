@@ -14,5 +14,5 @@
 * The Meetup has a $5 yearly fee. The most recent members to join may not be active yet in the group.
 
 ### Next Steps
-* Iterate: Duplicate the experiment using gottaGolf.
-* Persevere: Run the same experiment to get more data.
+* Iterate: Duplicate the [experiment using gottaGolf](https://trello.com/c/5cVDYZmN/66-message-gottagolf-users).
+* Persevere: Run the [same experiment](https://trello.com/c/Td1ssk5E/67-message-members-of-austin-golfers-meetup) to get more data.
