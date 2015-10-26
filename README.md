@@ -3,7 +3,7 @@
 ## October 18-24, 2015
 ### We Thought
 * Messaging 99 GolfMatch users results in 10 (>10%) customer development interviews.
-* Messaging 60 members of the Austin Golfers Meetup will result in 3 (5%) customer development interviews.
+* Messaging 60 members of the Austin Golfers Meetup results in 3 (5%) customer development interviews.
 
 ### We Did
 * Messaged 30 GolfMatch users within 50 miles of Austin, TX. This resulted in only one interview (3.33%). However, we discovered and confirmed messaging is currently extremely difficult to use.
