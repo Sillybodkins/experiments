@@ -15,4 +15,4 @@
 
 ### Next Steps
 * Iterate: Duplicate the experiment using gottaGolf.
-* Perservere: Run the same experiment to get more data.
+* Persevere: Run the same experiment to get more data.
