@@ -13,11 +13,12 @@
 ### We Learned
 * gottaGolf is super buggy. You have to send a friend request before messaging. Some accounts may be seeded (fake). However, the 12% rate of new friends to requests is a good signal.
 * Meetup allows you to send more than 12 messages per day now. There is a delay where you have to wait a few minutes after sending 10. It is not that long. I have not figure out what the new maximum is.
+* The GolfMatch app may have improved their messaging. There is now a badge indicating there are messages on the Profile icon. Tapping this brings up a Chats option taking you to conversations in progress. 
 * The inteview with [Chris Beale](https://github.com/Sillybodkins/interviews/blob/master/chrisBeale.md) was extrmely valuable. He validated it is difficult finding people to play with and he doesn’t want to mess with technology on the course. He said that front, middle and back yardages are more important closer to the hole and it would be nice to have a button to order food & beverage on the course. He is also interested in participating in a beta program. This contact was made #IRL.
 
 ### Next Steps
-* Iterate: Create [new experiment](https://trello.com/c/JrLWaIO1/81-message-gottagolf-users) to send new gottaGolf friends requests for interviews.
-* Persevere: Run the [gottaGolf experiment](https://trello.com/c/PuSb6Ses/80-send-gottagolf-friend-requests) again to add more friends. Run the [Meetup experiment](https://trello.com/c/JizNbfD2/82-message-members-of-austin-golfers-meetup) again to get more data.
+* Iterate: Create experiment to [](https://trello.com/c/JrLWaIO1/81-message-gottagolf-users). Create experiment to [message gottaGolf users](https://trello.com/c/wFxCS6aV/83-message-golfmatch-users) to send follow-up messages to GolfMatch users. Create experiment to [follow-up with members of Austin Golfers Meetup](https://trello.com/c/aeg5G45u/84-follow-up-with-members-of-austin-golfers-meetup). Create experiment to [follow-up with members of Austin Golfers Meetup](https://trello.com/c/wFxCS6aV/83-message-golfmatch-users).
+* Persevere: Run the experiment to [send gottaGolf friend requests](https://trello.com/c/PuSb6Ses/80-send-gottagolf-friend-requests) again to add more friends. Run the experiment to [message members of Austin Golfers Meetup](https://trello.com/c/JizNbfD2/82-message-members-of-austin-golfers-meetup) again to get more data.
 
 ## October 18-24, 2015
 ### We Thought
