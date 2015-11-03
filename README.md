@@ -16,8 +16,8 @@
 * The inteview with [Chris Beale](https://github.com/Sillybodkins/interviews/blob/master/chrisBeale.md) was extrmely valuable. He validated it is difficult finding people to play with and he doesn’t want to mess with technology on the course. He said that front, middle and back yardages are more important closer to the hole and it would be nice to have a button to order food & beverage on the course. He is also interested in participating in a beta program. This contact was made #IRL.
 
 ### Next Steps
-* Iterate: Duplicate the [experiment](https://trello.com/c/PuSb6Ses/80-send-gottagolf-friend-requests) to add more friends. Create [new experiment](https://trello.com/c/JrLWaIO1/81-message-gottagolf-users) to send existing friends requests for interviews.
-* Persevere: Run the [same experiment](https://trello.com/c/JizNbfD2/82-message-members-of-austin-golfers-meetup) to get more data.
+* Iterate: Create [new experiment](https://trello.com/c/JrLWaIO1/81-message-gottagolf-users) to send new gottaGolf friends requests for interviews.
+* Persevere: Run the [gottaGolf experiment](https://trello.com/c/PuSb6Ses/80-send-gottagolf-friend-requests) again to add more friends. Run the [Meetup experiment](https://trello.com/c/JizNbfD2/82-message-members-of-austin-golfers-meetup) again to get more data.
 
 ## October 18-24, 2015
 ### We Thought
