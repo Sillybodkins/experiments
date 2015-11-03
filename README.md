@@ -17,8 +17,13 @@
 * The inteview with [Chris Beale](https://github.com/Sillybodkins/interviews/blob/master/chrisBeale.md) was extrmely valuable. He validated it is difficult finding people to play with and he doesn’t want to mess with technology on the course. He said that front, middle and back yardages are more important closer to the hole and it would be nice to have a button to order food & beverage on the course. He is also interested in participating in a beta program. This contact was made #IRL.
 
 ### Next Steps
-* Persevere: Run the experiment to [send gottaGolf friend requests](https://trello.com/c/PuSb6Ses/80-send-gottagolf-friend-requests) again to add more friends. Run the experiment to [message members of Austin Golfers Meetup](https://trello.com/c/JizNbfD2/82-message-members-of-austin-golfers-meetup) again to get more data.
-* Iterate: Create experiment to [message GolfMatch users](https://trello.com/c/wFxCS6aV/83-message-golfmatch-users) to send follow-up messages. Create experiment to [follow-up with members of Austin Golfers Meetup](https://trello.com/c/aeg5G45u/84-follow-up-with-members-of-austin-golfers-meetup). Create experiment to [message GolfMatch users](https://trello.com/c/M2ZqJSKm/85-message-golfmatch-users) to test the messaging improvements.
+#### Persevere
+* Run the experiment to [send gottaGolf friend requests](https://trello.com/c/PuSb6Ses/80-send-gottagolf-friend-requests) again to add more friends.
+* Run the experiment to [message members of Austin Golfers Meetup](https://trello.com/c/JizNbfD2/82-message-members-of-austin-golfers-meetup) again to get more data.
+#### Iterate
+* Create experiment to [message GolfMatch users](https://trello.com/c/wFxCS6aV/83-message-golfmatch-users) to send follow-up messages.
+* Create experiment to [follow-up with members of Austin Golfers Meetup](https://trello.com/c/aeg5G45u/84-follow-up-with-members-of-austin-golfers-meetup).
+* Create experiment to [message GolfMatch users](https://trello.com/c/M2ZqJSKm/85-message-golfmatch-users) to test the messaging improvements.
 
 ## October 18-24, 2015
 ### We Thought
