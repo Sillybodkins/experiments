@@ -1,12 +1,33 @@
 # Experiments
 
+## November 1-7, 2015
+### We Thought
+* Sending 100 gottaGolf friend requests results in 10 (10%) friends.
+* Messaging 60 members of the Austin Golfers Meetup results in 3 (5%) customer development interviews.
+
+### We Did
+* Sent 100 gottaGolf friend requests to users in the state of Texas. This resulted in 12 **(12%)** new friends.
+* Messaged 60 members of the Austin Golfers Meetup sorted by the most recent to join. This resulted in no interviews and 1 new conversation.
+
+### We Learned
+* A [quick call with Gary](https://github.com/Sillybodkins/interviews/blob/master/gary.md) revealed he does not have any problems finding people to play with and enjoys meeting new people. He uses both a rangefinder and a GPS watch while playing. His ideal solution would be a chip in the flag that lets you know exactly where it is.
+* Second week in a row with a 12% friend rate on gottaGolf.
+* Being more honest about the app in the first message on Meetup did not improve results.
+
+### Next Steps
+#### Persevere
+* Continue [gottaGolf friend requests](https://trello.com/c/ZGVkM5GZ/94-send-gottagolf-friend-requests) for all Texas users.
+
+#### Iterate
+* Continue [contacting Austin Golfers Meetup](https://trello.com/c/h9S5w72B/95-message-members-of-austin-golfers-meetup). 
+
 ## October 25-31, 2015
 ### We Thought
 * Messaging 50 gottaGolf users results in 3 (>6%) customer development interviews.
 * Messaging 60 members of the Austin Golfers Meetup results in 3 (5%) customer development interviews.
 
 ### We Did
-* Sent 139 gottaGolf friend requests to uses in the state of Texas. This resulted in 16 **(12%)** friends.
+* Sent 139 gottaGolf friend requests to users in the state of Texas. This resulted in 16 **(12%)** friends.
 * Messaged 80 members of the Austin Golfers Meetup sorted by the most recent to join. This resulted in one (.01%) interview, five (.06%) conversations in progress and two (.03%) requests for no further contact.
 * Paid the $5 yearly Meetup fee.
 
