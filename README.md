@@ -11,7 +11,7 @@
 
 ### We Learned
 * A [quick call with Gary](https://github.com/Sillybodkins/interviews/blob/master/gary.md) revealed he does not have any problems finding people to play with and enjoys meeting new people. He uses both a rangefinder and a GPS watch while playing. His ideal solution would be a chip in the flag that lets you know exactly where it is.
-* [Sunrise Calendar](https://sunrise.am/) integrates calendars nicely and makes it easy to send availability. But it does not allow you to send the same URL to multiple people or collect telephone numbers.
+* [Sunrise](https://sunrise.am/) integrates calendars nicely and makes it easy to send availability. But it does not allow you to send the same URL to multiple people or collect telephone numbers.
 * Second week in a row with a 12% friend rate on gottaGolf.
 * Being more honest about the app in the first message on Meetup did not improve results.
 
