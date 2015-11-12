@@ -14,6 +14,7 @@
 * [Sunrise](https://sunrise.am/) integrates calendars nicely and makes it easy to send availability. But it does not allow you to send the same URL to multiple people or collect telephone numbers.
 * Second week in a row with a 12% friend rate on gottaGolf.
 * Being more honest about the app in the first message on Meetup did not improve results.
+* Trying to set up interviews with informal calls has been diffifult. I had four scheduled calls that went to voice mail. Setting up something more formal with email will hopefully improve this.
 
 ### Next Steps
 #### Persevere
