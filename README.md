@@ -1,5 +1,14 @@
 # Experiments
 
+# Experiments
+
+## November 8-14, 2015
+### We Thought
+### We Did
+### We Learned
+* A [quick call with Gary](https://github.com/Sillybodkins/interviews/blob/master/gary.md) revealed he does not have any problems finding people to play with and enjoys meeting new people. He uses both a rangefinder and a GPS watch while playing. His ideal solution would be a chip in the flag that lets you know exactly where it is.
+### Next Steps
+
 ## November 1-7, 2015
 ### We Thought
 * Sending 100 gottaGolf friend requests results in 10 (10%) friends.
@@ -10,7 +19,6 @@
 * Messaged 60 members of the Austin Golfers Meetup sorted by the most recent to join. This resulted in no interviews and 1 new conversation.
 
 ### We Learned
-* A [quick call with Gary](https://github.com/Sillybodkins/interviews/blob/master/gary.md) revealed he does not have any problems finding people to play with and enjoys meeting new people. He uses both a rangefinder and a GPS watch while playing. His ideal solution would be a chip in the flag that lets you know exactly where it is.
 * [Sunrise](https://sunrise.am/) integrates calendars nicely and makes it easy to send availability. But it does not allow you to send the same URL to multiple people or collect telephone numbers.
 * Second week in a row with a 12% friend rate on gottaGolf.
 * Being more honest about the app in the first message on Meetup did not improve results.
