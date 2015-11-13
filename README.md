@@ -1,7 +1,5 @@
 # Experiments
 
-# Experiments
-
 ## November 8-14, 2015
 ### We Thought
 ### We Did
